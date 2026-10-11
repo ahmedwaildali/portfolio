@@ -2,7 +2,7 @@
 
 My personal portfolio: my skills, certificates, and projects as a data analyst.
 
-🔗 **Live Demo:** https://ahmedwaildali.github.io/portfolio/portfolio.html
+🔗 **Live Demo:** [https://ahmedwaildali.github.io/portfolio/portfolio.html](https://github.com/ahmedwaildali/portfolio/blob/main/portfolio.html)
 
 ## About Me
 
